@@ -4,3 +4,5 @@ Public privacy policy page for the Android app «Κιτ 72h» (gr.kit72.app), se
 
 - Ελληνικά: https://ntarlad.github.io/kit72-privacy/
 - English: https://ntarlad.github.io/kit72-privacy/en/
+
+Σελίδα: GitHub Pages από τον κλάδο main.
