@@ -1,6 +1,6 @@
-# Kit 72h: privacy policy
+# Kit72: privacy policy
 
-Public privacy policy page for the Android app «Κιτ 72h» (gr.kit72.app), served with GitHub Pages.
+Public privacy policy page for the Android app «Kit72» (gr.kit72.app), served with GitHub Pages.
 
 - Ελληνικά: https://ntarlad.github.io/kit72-privacy/
 - English: https://ntarlad.github.io/kit72-privacy/en/
